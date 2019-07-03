@@ -1,0 +1,39 @@
+body{
+	background-color: Gray;
+}
+h1{
+	font-size:70px;
+}
+#Arial{
+	color:Green;
+}
+
+#Artistic{
+	color:Red;
+}
+
+#Wildlife{
+	color:Purple;
+}
+
+#Sport{
+	color:Orange;
+}
+
+#Underwater{
+	color: Blue;
+}
+
+#Night{
+	color: Black;
+}
+
+.Dimentions{
+	height:300px;
+	width:500px;
+	border: 5px solid white;
+}
+
+.fontsize{
+	font-size:40px;
+}
